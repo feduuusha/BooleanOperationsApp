@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="176.0"
+            prefWidth="217.0" xmlns="http://javafx.com/javafx/20" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.fyodor.booleanframe.BoolController">
+   <Text layoutX="25.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Boolean Operations">
+      <font>
+         <Font size="20.0"/>
+      </font>
+   </Text>
+   <Text layoutX="29.0" layoutY="73.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Неправильное выражение!"/>
+   <Button onAction="#buttonClose" fx:id="buttonend" layoutX="73.0" layoutY="126.0" mnemonicParsing="false"
+           prefHeight="40.0" prefWidth="70.0" text="Закрыть"/>
+</AnchorPane>
