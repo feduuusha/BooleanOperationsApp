@@ -6,6 +6,7 @@
 * [Built With](#built-with)
 * [Functionality](#functionality)
 * [Application requirements](#application-requirements)
+* [Usage](#usage)
 * [How to use the application](#how-to-use-the-application)
 * [License](#license)
 
@@ -33,12 +34,21 @@ You can explicitly write the function using '!' - negation, '&' - conjunction, '
 * Construction of FCNF (full conjunctive normal form)
 * Construction of an abbreviated DNF (disjunctive normal form)
 * Construction of a dead-end DNF (disjunctive normal form)
-* Building a Quine table
 * Construction of a minimal DNF (disjunctive normal form)
-* Construction of the Zhegalkin polynomial
 
 ## Application requirements
 * Java 11.0.2+
+
+## Usage
+* Main screen
+  ![alt text](https://i.ibb.co/StYbsq1/main.jpg)
+
+* Answer screen
+  ![alt text](https://i.ibb.co/xJSFLxR/answer.jpg)
+
+* Incorrect input screen
+  
+  ![alt text](https://i.ibb.co/s2zrpmm/error.jpg)
 
 ## How to use the application
 ### On windows
