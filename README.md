@@ -2,11 +2,11 @@
 
 ## Table Of Contents
 
-* [About the Project](#abouttheproject)
-* [Built With](#builtwith)
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
 * [Functionality](#functionality)
-* [Application requirements](#applicationrequirements)
-* [How to use the application](#howtousetheapplication)
+* [Application requirements](#application-requirements)
+* [How to use the application](#how-to-use-the-application)
 * [License](#license)
 
 ## About the Project
