@@ -7,7 +7,7 @@
 
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="176.0"
-            prefWidth="217.0" xmlns="http://javafx.com/javafx/20" xmlns:fx="http://javafx.com/fxml/1"
+            prefWidth="217.0" xmlns="http://javafx.com/javafx/11" xmlns:fx="http://javafx.com/fxml/1"
             fx:controller="com.fyodor.booleanframe.BoolController">
    <Text layoutX="25.0" layoutY="28.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Boolean Operations">
       <font>
